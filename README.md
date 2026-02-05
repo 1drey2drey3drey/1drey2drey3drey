@@ -2,9 +2,9 @@
 
 **` Desenvolvedor Full-Stack  / Full-Stack Developer`**
 
-Sou estudante de **Ciência da Computação** no Terceiro semestre e estou em busca de oportunidades para aplicar e expandir meus conhecimentos em programação. Estou constantemente explorando novas tecnologias, ferramentas e frameworks, para manter um aprendizado contínuo, demonstro iniciativa, proatividade e adaptabilidade a novos desafios.
+Sou estudante de **Ciência da Computação** no Quinto semestre e estou em busca de oportunidades para aplicar e expandir meus conhecimentos em programação. Estou constantemente explorando novas tecnologias, ferramentas e frameworks, para manter um aprendizado contínuo, demonstro iniciativa, proatividade e adaptabilidade a novos desafios.
 
-I am a third-semester **Computer Science** student looking for opportunities to apply and expand my programming knowledge. I am constantly exploring new technologies, tools, and frameworks to maintain continuous learning, demonstrating initiative, proactivity, and adaptability to new challenges.
+I am a fifth-semester **Computer Science** student looking for opportunities to apply and expand my programming knowledge. I am constantly exploring new technologies, tools, and frameworks to maintain continuous learning, demonstrating initiative, proactivity, and adaptability to new challenges.
 
 
 ---
