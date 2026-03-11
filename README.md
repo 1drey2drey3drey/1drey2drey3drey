@@ -1,6 +1,5 @@
 # 👀 Andrey Garcia 
 
-**` Desenvolvedor Full-Stack  / Full-Stack Developer`**
 
 Sou estudante de **Ciência da Computação** no Quinto semestre e estou em busca de oportunidades para aplicar e expandir meus conhecimentos em programação. Estou constantemente explorando novas tecnologias, ferramentas e frameworks, para manter um aprendizado contínuo, demonstro iniciativa, proatividade e adaptabilidade a novos desafios.
 
